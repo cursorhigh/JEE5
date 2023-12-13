@@ -1,0 +1,5 @@
+django
+djangorestframework
+django-auth-token
+djangorestframework-jwt
+Pillow
