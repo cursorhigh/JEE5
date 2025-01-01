@@ -1,5 +1,5 @@
 
-![JEE5 Logo](https://i.ibb.co/NCZNHrB/icon.png)
+<img src="https://i.ibb.co/NCZNHrB/icon.png" alt="JEE5 Logo" width="256" height="256" />
 # JEE5 - Backend (Django)
 
 JEE5 is a revolutionary app designed to transform the JEE preparation experience into something as interactive and engaging as social media platforms like Instagram. This app aims to provide:
